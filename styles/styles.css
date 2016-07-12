@@ -1,0 +1,22 @@
+body {
+    color:orange;
+    font-style:normal;
+    font-size: 22px;
+    background-color:teal;
+}
+
+.style {
+    background-color: teal;
+}
+
+.favorites{
+    background-image: url("../images/pic.jpg");
+    width:80%;
+    background-size:contain;
+    height: 80%;
+    background-repeat: repeat;
+    font-size: 72px;
+    color:black;
+    font-weight:bold;
+    
+}
