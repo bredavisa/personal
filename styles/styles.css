@@ -20,3 +20,16 @@ body {
     font-weight:bold;
     
 }
+
+.nav {
+    border:1px orange;
+    background-color:orange;
+    color:white;
+    padding:10px 20px;
+    text-decoration: none;
+    width: 100%;
+    text-decoration: none;
+}
+a{
+ text-decoration: none;
+}
